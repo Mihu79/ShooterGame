@@ -18,6 +18,10 @@ ShooterGame este un proiect de joc video dezvoltat folosind Unity și C#. Acesta
 - **ShaderLab**: Utilizat pentru crearea și gestionarea shaderelor.
 - **HLSL**: Limbaj pentru programarea shaderelor în Unity.
 
+## Incearcă Jocul Online
+
+Accesează jocul la acest link: https://play.unity.com/en/games/bc8efaa2-9ec6-4d51-9c89-9b162c9a004f/shootergame
+
 ## Instalare
 
 1. Clonează repository-ul:
